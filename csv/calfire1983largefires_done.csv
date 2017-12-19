@@ -1,0 +1,23 @@
+"unit","name","start","end","agency","cdf","other","totalacres","vegType","cause","homes"
+"Lake-Napa","Pope Canyon","07/10/83",07/12/83,"CDF",1200,,1200,"B","Equip. Use",
+"Lake-Napa","March #2","09/11/83",09/12/83,"CDF",600,,600,"B","Debris",
+"Lake-Napa","Morgan Valley","09/19/83",09/20/83,"CDF",500,,500,"B","Arson",
+"Butte","Munjar","06/17/83",06/17/83,"CDF",4220,,4220,"GAP","Debris",
+"Butte","Skyway #3","07/14/83",07/15/83,"CDF",502,,502,"B","Smkg.",
+"Butte","Hamlin Canyon","09/03/83",09/04/83,"CDF",1860,,1860,"BG","Misc.",
+"Fresno-Kings","Lightning #4","08/30/83",09/01/83,"CDF",7800,,7800,"BG","Ltng.",
+"Madera-Mariposa","Old Toll",07/12/83,07/12/83,"CDF",600,,600,"B","Arson",
+"Madera-Mariposa","Lightning #7",08/31/83,09/01/83,"CDF",750,,750,"WBG","Ltng.",
+"Tulare","Dry Creek",06/20/83,06/21/83,"CDF",600,,600,"BG","Arson",
+"Kern County","Kern County #13",07/12/83,07/12/83,"CC",,3000,3000,"BG","Equip. Use",
+"Kern County","Kern County #18",07/22/83,07/23/83,"CC",,330,330,"B","N/A",
+"San Luis Obispo","Rotta",07/09/83,07/09/83,"CDF",350,,350,"B","Misc.",
+"Santa Clara","Del Valle P.G. & E.",07/12/83,07/16/83,"CDF",4650,,4650,"WBG","Equip. Use",
+"Santa Clara","Port Costa Series",08/07/83,08/07/83,"CDF",325,,325,"WBG","Arson",10
+"Owens Valley","Rovana",07/01/83,07/01/83,"CDF",320,,320,"B","P/W/F",
+"Riverside","Snow Creek Assist",05/25/83,05/26/83,"CITY",75,4000,4075,"B","N/A",
+"Riverside","Morongo #3",06/06/83,06/06/83,"CDF",316,,316,"B","Arson",
+"Riverside","Canyon",06/16/83,06/16/83,"CDF",1160,,1160,"B","Equip. Use",
+"Riverside","Fresno #2",07/12/83,07/13/83,"CDF",700,,700,"B","Arson",1
+"Riverside","Fresno #3",07/13/83,07/14/83,"CDF",900,,900,"B","Arson",
+"Riverside","McKinley",07/18/83,07/18/83,"CDF",1612,,1612,"G","P/W/F",
